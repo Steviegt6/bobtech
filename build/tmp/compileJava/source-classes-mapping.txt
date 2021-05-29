@@ -1,0 +1,6 @@
+shardion/bobtech/mixin/BobTechMixin.java
+ shardion.bobtech.mixin.BobTechMixin
+shardion/bobtech/items/ChargedLazuliPowderItem.java
+ shardion.bobtech.items.ChargedLazuliPowderItem
+shardion/bobtech/BobTechMod.java
+ shardion.bobtech.BobTechMod

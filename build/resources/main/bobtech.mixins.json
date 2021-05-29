@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "shardion.bobtech.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "BobTechMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
