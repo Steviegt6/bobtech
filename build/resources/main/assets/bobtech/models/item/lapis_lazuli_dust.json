@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "bobtech:item/lapis_lazuli_dust"
-  }
-}
