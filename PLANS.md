@@ -15,9 +15,9 @@
 
 `Charged Lazuli` is obtained by throwing `Charged Lazuli Powder` in water.
 
-`Charged Lazuli Powder` is crafted with one `Lapis Lazuli Dust` and one `Redstone Dust` (vanilla item) in a shapeless recipe.
+`Charged Lazuli Powder` is crafted with one `Lapis Lazuli Dust` and one `Redstone Dust` in a shapeless recipe.
 
-`Lapis Lazuli Dust` is obtained by crushing one `Lapis Lazuli` (vanilla item) in any `Crusher`.
+`Lapis Lazuli Dust` is obtained by crushing one `Lapis Lazuli` in any `Crusher`.
 
 <h4>Mid-tier resources:</h4>
 
