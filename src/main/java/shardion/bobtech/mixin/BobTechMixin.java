@@ -1,6 +1,6 @@
 // TODO: Probably delete this and make ReplaceEntityMixin actually do something
 
-package shardion.bobtech.mixin;
+/*package shardion.bobtech.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
@@ -14,4 +14,4 @@ public class BobTechMixin {
 	private void init(CallbackInfo info) {
 		System.out.println("This line is printed by an example mod mixin!");
 	}
-}
+}*/

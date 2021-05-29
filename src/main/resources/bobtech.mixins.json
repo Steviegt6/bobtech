@@ -7,7 +7,7 @@
     "ReplaceEntityMixin"
   ],
   "client": [
-    "BobTechMixin"
+    //"BobTechMixin"
   ],
   "injectors": {
     "defaultRequire": 1
